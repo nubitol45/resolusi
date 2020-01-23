@@ -2,3 +2,5 @@ RESOLUSI
 - menyelesaikan tugas 1
 - menyelesaikan tugas 2
 - menyelesaikan tugas 3
+- membeuat proposal
+- membuat aplikasi berdasarkan isi proposal
