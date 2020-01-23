@@ -1,0 +1,6 @@
+RENCANA BELAJAR
+-belajar html 5
+-belajar css 3
+-belajar javascript
+ *Basic
+ *DOM
